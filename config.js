@@ -1,1 +1,1 @@
-const apiUrl = 'https://payments.technova.dev';
+const apiUrl = 'https://api.technova.dev';
